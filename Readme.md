@@ -13,6 +13,8 @@ A small Node.js utility that aggregates values by day of the week from a set of 
 Clone the repository and install dependencies:
 
 ```bash
+git clone https://github.com/srijana28/day-aggregation.git
+cd day-aggregation
 npm install
 ```
 ## Running Tests 
