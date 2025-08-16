@@ -21,15 +21,17 @@ npm test
 ```
 
 Example output:
-
+```bash
 Test 1 (Example 1): PASS 
 Test 2 (Example 2 - Missing Days): PASS
+```
 
 ## 📂 Project Structure
-.
+```bash
 ├── solution.js   # Core aggregation + interpolation logic
 ├── test.js       # Test runner with sample cases
 ├── package.json  # Project metadata & scripts
+```
 
 ## ⚖️ License
 
